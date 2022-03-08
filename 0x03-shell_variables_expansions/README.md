@@ -18,3 +18,13 @@
 4. Create a script that counts the number of directories in the PATH
 
 	echo $PATH | tr ":" "\n" | wc -l
+
+5. Create a script that lists environment variables.
+
+	printenv | less
+
+6. Create a script that lists all local variables and environment variables, and functions.
+
+	set | less
+
+7. 
