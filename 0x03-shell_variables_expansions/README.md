@@ -27,4 +27,13 @@
 
 	set | less
 
-7. 
+7. Create a script that creates a new local variable.
+
+	Name: BEST
+	Value: School 
+
+
+	BEST='School'
+
+
+
